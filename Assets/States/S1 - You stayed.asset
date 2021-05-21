@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8491b955e5c3548b2696bd2ce8f3ad, type: 3}
+  m_Name: S1 - You stayed
+  m_EditorClassIdentifier: 
+  storyText: 'Since you didn''t know anything about your past, you decided to stay
+    at the bar working to make some money and try remembering about your past. With
+    time you remembered your house was tragically destroyed by a fire and your parents
+    were killed. You broke down in front of a customer that asked the bartender a
+    drink for you. You later discovered he was an international detective from Japan.
+    He told you to never give up on this world. With time, you decided to stay permanently
+    on the ship, helping lost souls just like the bartender and the detective did
+    to you. You even met a beautiful and strong woman the same age as you. When you
+    got to know her, she told you she was the detective''s daughter. After many days
+    of conversation at the bar, the both of you decided to stay together and have
+    many babies.
+
+    
+
+    1. Try again?'
+  nextStates:
+  - {fileID: 11400000, guid: 471e5f7965d182641b9ab877cc700f2a, type: 2}

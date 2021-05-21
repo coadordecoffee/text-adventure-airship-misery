@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8491b955e5c3548b2696bd2ce8f3ad, type: 3}
+  m_Name: A2-4 About leaving
+  m_EditorClassIdentifier: 
+  storyText: '"You sure about leaving?" he firmly asked. "I don''t know, feels like
+    you should first remember where you were going to begin with. At least, where
+    you came from!" He sighs.
+
+
+    "Well, I''d recommend checking your flight information
+    at the main office. We are short on staff though, and I could really get an extra
+    pair of hands in the night shift. I don''t attend many people during the day,
+    but at night it''s difficult the amount of people that will be among us. Maybe
+    that helps you recover your memory before rushing to the world out there."
+
+
+    What
+    should you do?
+
+    1. Thank him and leave for the main office.
+
+    2. Offer
+    him help.'
+  nextStates:
+  - {fileID: 11400000, guid: 4019f4345c2ada749ae8790bab2ff587, type: 2}
+  - {fileID: 11400000, guid: 382850d255a817547b4a3dc93060ddf4, type: 2}

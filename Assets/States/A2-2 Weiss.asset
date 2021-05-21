@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8491b955e5c3548b2696bd2ce8f3ad, type: 3}
+  m_Name: A2-2 Weiss
+  m_EditorClassIdentifier: 
+  storyText: "\"Here you are mate\". He hands you a freezing glass of bier. You appreciate
+    it with moderation, in fear of going into another memory loss coma. \r\n\r\n\"How
+    big is this ship?\" you ask.\r\n\r\n\"How big?\" he quickly responds. \"Let's
+    just say big enough to store meals and fuel for years for dozens of hundreds
+    of people. This is almost like a city you know. People drop in and out, some
+    never go out. We workers of the ship have a free food, a home for our families
+    on board and money to spend on our needs.\"\r\n\r\nWhat should you do?\r\n1.
+    Ask him for a stout pint and what this ship is for.\r\n2. Ask him when you may
+    leave."
+  nextStates:
+  - {fileID: 11400000, guid: 7ddd208ce25347d499c38b3ee24fe864, type: 2}
+  - {fileID: 11400000, guid: 0faf6d40ed44b024fa4980fa4b4b3812, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8491b955e5c3548b2696bd2ce8f3ad, type: 3}
+  m_Name: X1 - You left
+  m_EditorClassIdentifier: 
+  storyText: 'You decided to look for information about your flight. You discovered
+    your real name, but not much besides that. Your destination was Brazil, so you
+    waited patiently at the bar for your time to drop out of the ship. When the time
+    came, you entered a small steam-engine flying contraption at the lower docks
+    and went to your destination, not knowing where you even came from.
+
+
+    1.
+    Try again?'
+  nextStates:
+  - {fileID: 11400000, guid: 471e5f7965d182641b9ab877cc700f2a, type: 2}
